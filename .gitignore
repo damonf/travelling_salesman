@@ -1,0 +1,12 @@
+# Ignore the build dir
+build/
+
+# gdb
+.gdb_history
+
+# Visual Studio cache/options directory
+.vs/
+
+# Visual Studio build 
+out/
+

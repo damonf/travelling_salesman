@@ -1,0 +1,107 @@
+[
+{
+  "directory": "/home/damon/source/travelling_salesman/build/apps",
+  "command": "/usr/bin/c++ -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -I/home/damon/source/travelling_salesman/src/tsp -I/home/damon/source/travelling_salesman/src/tsp/genetic -I/home/damon/source/travelling_salesman/src/tsp/genetic/interfaces -isystem /home/damon/source/travelling_salesman/include -isystem /usr/local/boost_1_79_0/include -g -Wall -Wextra -Wwrite-strings -Wno-parentheses -Wno-comment -Wpedantic -Warray-bounds -Weffc++ -Werror -std=c++17 -o CMakeFiles/main_app.dir/main.cpp.o -c /home/damon/source/travelling_salesman/apps/main.cpp",
+  "file": "/home/damon/source/travelling_salesman/apps/main.cpp"
+},
+{
+  "directory": "/home/damon/source/travelling_salesman/build/src",
+  "command": "/usr/bin/c++ -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -I/home/damon/source/travelling_salesman/src/tsp -I/home/damon/source/travelling_salesman/src/tsp/genetic -I/home/damon/source/travelling_salesman/src/tsp/genetic/interfaces -isystem /usr/local/boost_1_79_0/include -g -Wall -Wextra -Wwrite-strings -Wno-parentheses -Wno-comment -Wpedantic -Warray-bounds -Weffc++ -Werror -std=c++17 -o CMakeFiles/tsp.dir/tsp/graph.cpp.o -c /home/damon/source/travelling_salesman/src/tsp/graph.cpp",
+  "file": "/home/damon/source/travelling_salesman/src/tsp/graph.cpp"
+},
+{
+  "directory": "/home/damon/source/travelling_salesman/build/src",
+  "command": "/usr/bin/c++ -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -I/home/damon/source/travelling_salesman/src/tsp -I/home/damon/source/travelling_salesman/src/tsp/genetic -I/home/damon/source/travelling_salesman/src/tsp/genetic/interfaces -isystem /usr/local/boost_1_79_0/include -g -Wall -Wextra -Wwrite-strings -Wno-parentheses -Wno-comment -Wpedantic -Warray-bounds -Weffc++ -Werror -std=c++17 -o CMakeFiles/tsp.dir/tsp/brute_force.cpp.o -c /home/damon/source/travelling_salesman/src/tsp/brute_force.cpp",
+  "file": "/home/damon/source/travelling_salesman/src/tsp/brute_force.cpp"
+},
+{
+  "directory": "/home/damon/source/travelling_salesman/build/src",
+  "command": "/usr/bin/c++ -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -I/home/damon/source/travelling_salesman/src/tsp -I/home/damon/source/travelling_salesman/src/tsp/genetic -I/home/damon/source/travelling_salesman/src/tsp/genetic/interfaces -isystem /usr/local/boost_1_79_0/include -g -Wall -Wextra -Wwrite-strings -Wno-parentheses -Wno-comment -Wpedantic -Warray-bounds -Weffc++ -Werror -std=c++17 -o CMakeFiles/tsp.dir/tsp/config.cpp.o -c /home/damon/source/travelling_salesman/src/tsp/config.cpp",
+  "file": "/home/damon/source/travelling_salesman/src/tsp/config.cpp"
+},
+{
+  "directory": "/home/damon/source/travelling_salesman/build/src",
+  "command": "/usr/bin/c++ -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -I/home/damon/source/travelling_salesman/src/tsp -I/home/damon/source/travelling_salesman/src/tsp/genetic -I/home/damon/source/travelling_salesman/src/tsp/genetic/interfaces -isystem /usr/local/boost_1_79_0/include -g -Wall -Wextra -Wwrite-strings -Wno-parentheses -Wno-comment -Wpedantic -Warray-bounds -Weffc++ -Werror -std=c++17 -o CMakeFiles/tsp.dir/tsp/genetic/genetic.cpp.o -c /home/damon/source/travelling_salesman/src/tsp/genetic/genetic.cpp",
+  "file": "/home/damon/source/travelling_salesman/src/tsp/genetic/genetic.cpp"
+},
+{
+  "directory": "/home/damon/source/travelling_salesman/build/src",
+  "command": "/usr/bin/c++ -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -I/home/damon/source/travelling_salesman/src/tsp -I/home/damon/source/travelling_salesman/src/tsp/genetic -I/home/damon/source/travelling_salesman/src/tsp/genetic/interfaces -isystem /usr/local/boost_1_79_0/include -g -Wall -Wextra -Wwrite-strings -Wno-parentheses -Wno-comment -Wpedantic -Warray-bounds -Weffc++ -Werror -std=c++17 -o CMakeFiles/tsp.dir/tsp/genetic/random_generator.cpp.o -c /home/damon/source/travelling_salesman/src/tsp/genetic/random_generator.cpp",
+  "file": "/home/damon/source/travelling_salesman/src/tsp/genetic/random_generator.cpp"
+},
+{
+  "directory": "/home/damon/source/travelling_salesman/build/src",
+  "command": "/usr/bin/c++ -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -I/home/damon/source/travelling_salesman/src/tsp -I/home/damon/source/travelling_salesman/src/tsp/genetic -I/home/damon/source/travelling_salesman/src/tsp/genetic/interfaces -isystem /usr/local/boost_1_79_0/include -g -Wall -Wextra -Wwrite-strings -Wno-parentheses -Wno-comment -Wpedantic -Warray-bounds -Weffc++ -Werror -std=c++17 -o CMakeFiles/tsp.dir/tsp/genetic/natural_selector.cpp.o -c /home/damon/source/travelling_salesman/src/tsp/genetic/natural_selector.cpp",
+  "file": "/home/damon/source/travelling_salesman/src/tsp/genetic/natural_selector.cpp"
+},
+{
+  "directory": "/home/damon/source/travelling_salesman/build/src",
+  "command": "/usr/bin/c++ -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -I/home/damon/source/travelling_salesman/src/tsp -I/home/damon/source/travelling_salesman/src/tsp/genetic -I/home/damon/source/travelling_salesman/src/tsp/genetic/interfaces -isystem /usr/local/boost_1_79_0/include -g -Wall -Wextra -Wwrite-strings -Wno-parentheses -Wno-comment -Wpedantic -Warray-bounds -Weffc++ -Werror -std=c++17 -o CMakeFiles/tsp.dir/tsp/genetic/parent_selector.cpp.o -c /home/damon/source/travelling_salesman/src/tsp/genetic/parent_selector.cpp",
+  "file": "/home/damon/source/travelling_salesman/src/tsp/genetic/parent_selector.cpp"
+},
+{
+  "directory": "/home/damon/source/travelling_salesman/build/src",
+  "command": "/usr/bin/c++ -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -I/home/damon/source/travelling_salesman/src/tsp -I/home/damon/source/travelling_salesman/src/tsp/genetic -I/home/damon/source/travelling_salesman/src/tsp/genetic/interfaces -isystem /usr/local/boost_1_79_0/include -g -Wall -Wextra -Wwrite-strings -Wno-parentheses -Wno-comment -Wpedantic -Warray-bounds -Weffc++ -Werror -std=c++17 -o CMakeFiles/tsp.dir/tsp/genetic/breeder.cpp.o -c /home/damon/source/travelling_salesman/src/tsp/genetic/breeder.cpp",
+  "file": "/home/damon/source/travelling_salesman/src/tsp/genetic/breeder.cpp"
+},
+{
+  "directory": "/home/damon/source/travelling_salesman/build/src",
+  "command": "/usr/bin/c++ -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -I/home/damon/source/travelling_salesman/src/tsp -I/home/damon/source/travelling_salesman/src/tsp/genetic -I/home/damon/source/travelling_salesman/src/tsp/genetic/interfaces -isystem /usr/local/boost_1_79_0/include -g -Wall -Wextra -Wwrite-strings -Wno-parentheses -Wno-comment -Wpedantic -Warray-bounds -Weffc++ -Werror -std=c++17 -o CMakeFiles/tsp.dir/tsp/genetic/mutator.cpp.o -c /home/damon/source/travelling_salesman/src/tsp/genetic/mutator.cpp",
+  "file": "/home/damon/source/travelling_salesman/src/tsp/genetic/mutator.cpp"
+},
+{
+  "directory": "/home/damon/source/travelling_salesman/build/tests",
+  "command": "/usr/bin/c++ -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -I/home/damon/source/travelling_salesman/tests/genetic -I/home/damon/source/travelling_salesman/src/tsp -I/home/damon/source/travelling_salesman/src/tsp/genetic -I/home/damon/source/travelling_salesman/src/tsp/genetic/interfaces -I/home/damon/source/travelling_salesman/build/_deps/catch2-src/single_include -isystem /usr/local/boost_1_79_0/include -isystem /home/damon/source/travelling_salesman/build/_deps/trompeloeil-src/include -g -Wall -Wextra -Wwrite-strings -Wno-parentheses -Wno-comment -Wpedantic -Warray-bounds -Weffc++ -Werror -std=c++17 -o CMakeFiles/test_tsp.dir/graph_test.cpp.o -c /home/damon/source/travelling_salesman/tests/graph_test.cpp",
+  "file": "/home/damon/source/travelling_salesman/tests/graph_test.cpp"
+},
+{
+  "directory": "/home/damon/source/travelling_salesman/build/tests",
+  "command": "/usr/bin/c++ -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -I/home/damon/source/travelling_salesman/tests/genetic -I/home/damon/source/travelling_salesman/src/tsp -I/home/damon/source/travelling_salesman/src/tsp/genetic -I/home/damon/source/travelling_salesman/src/tsp/genetic/interfaces -I/home/damon/source/travelling_salesman/build/_deps/catch2-src/single_include -isystem /usr/local/boost_1_79_0/include -isystem /home/damon/source/travelling_salesman/build/_deps/trompeloeil-src/include -g -Wall -Wextra -Wwrite-strings -Wno-parentheses -Wno-comment -Wpedantic -Warray-bounds -Weffc++ -Werror -std=c++17 -o CMakeFiles/test_tsp.dir/brute_force_test.cpp.o -c /home/damon/source/travelling_salesman/tests/brute_force_test.cpp",
+  "file": "/home/damon/source/travelling_salesman/tests/brute_force_test.cpp"
+},
+{
+  "directory": "/home/damon/source/travelling_salesman/build/tests",
+  "command": "/usr/bin/c++ -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -I/home/damon/source/travelling_salesman/tests/genetic -I/home/damon/source/travelling_salesman/src/tsp -I/home/damon/source/travelling_salesman/src/tsp/genetic -I/home/damon/source/travelling_salesman/src/tsp/genetic/interfaces -I/home/damon/source/travelling_salesman/build/_deps/catch2-src/single_include -isystem /usr/local/boost_1_79_0/include -isystem /home/damon/source/travelling_salesman/build/_deps/trompeloeil-src/include -g -Wall -Wextra -Wwrite-strings -Wno-parentheses -Wno-comment -Wpedantic -Warray-bounds -Weffc++ -Werror -std=c++17 -o CMakeFiles/test_tsp.dir/config_test.cpp.o -c /home/damon/source/travelling_salesman/tests/config_test.cpp",
+  "file": "/home/damon/source/travelling_salesman/tests/config_test.cpp"
+},
+{
+  "directory": "/home/damon/source/travelling_salesman/build/tests",
+  "command": "/usr/bin/c++ -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -I/home/damon/source/travelling_salesman/tests/genetic -I/home/damon/source/travelling_salesman/src/tsp -I/home/damon/source/travelling_salesman/src/tsp/genetic -I/home/damon/source/travelling_salesman/src/tsp/genetic/interfaces -I/home/damon/source/travelling_salesman/build/_deps/catch2-src/single_include -isystem /usr/local/boost_1_79_0/include -isystem /home/damon/source/travelling_salesman/build/_deps/trompeloeil-src/include -g -Wall -Wextra -Wwrite-strings -Wno-parentheses -Wno-comment -Wpedantic -Warray-bounds -Weffc++ -Werror -std=c++17 -o CMakeFiles/test_tsp.dir/random_numbers_test.cpp.o -c /home/damon/source/travelling_salesman/tests/random_numbers_test.cpp",
+  "file": "/home/damon/source/travelling_salesman/tests/random_numbers_test.cpp"
+},
+{
+  "directory": "/home/damon/source/travelling_salesman/build/tests",
+  "command": "/usr/bin/c++ -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -I/home/damon/source/travelling_salesman/tests/genetic -I/home/damon/source/travelling_salesman/src/tsp -I/home/damon/source/travelling_salesman/src/tsp/genetic -I/home/damon/source/travelling_salesman/src/tsp/genetic/interfaces -I/home/damon/source/travelling_salesman/build/_deps/catch2-src/single_include -isystem /usr/local/boost_1_79_0/include -isystem /home/damon/source/travelling_salesman/build/_deps/trompeloeil-src/include -g -Wall -Wextra -Wwrite-strings -Wno-parentheses -Wno-comment -Wpedantic -Warray-bounds -Weffc++ -Werror -std=c++17 -o CMakeFiles/test_tsp.dir/graph_gen_test.cpp.o -c /home/damon/source/travelling_salesman/tests/graph_gen_test.cpp",
+  "file": "/home/damon/source/travelling_salesman/tests/graph_gen_test.cpp"
+},
+{
+  "directory": "/home/damon/source/travelling_salesman/build/tests",
+  "command": "/usr/bin/c++ -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -I/home/damon/source/travelling_salesman/tests/genetic -I/home/damon/source/travelling_salesman/src/tsp -I/home/damon/source/travelling_salesman/src/tsp/genetic -I/home/damon/source/travelling_salesman/src/tsp/genetic/interfaces -I/home/damon/source/travelling_salesman/build/_deps/catch2-src/single_include -isystem /usr/local/boost_1_79_0/include -isystem /home/damon/source/travelling_salesman/build/_deps/trompeloeil-src/include -g -Wall -Wextra -Wwrite-strings -Wno-parentheses -Wno-comment -Wpedantic -Warray-bounds -Weffc++ -Werror -std=c++17 -o CMakeFiles/test_tsp.dir/genetic/genetic_test.cpp.o -c /home/damon/source/travelling_salesman/tests/genetic/genetic_test.cpp",
+  "file": "/home/damon/source/travelling_salesman/tests/genetic/genetic_test.cpp"
+},
+{
+  "directory": "/home/damon/source/travelling_salesman/build/tests",
+  "command": "/usr/bin/c++ -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -I/home/damon/source/travelling_salesman/tests/genetic -I/home/damon/source/travelling_salesman/src/tsp -I/home/damon/source/travelling_salesman/src/tsp/genetic -I/home/damon/source/travelling_salesman/src/tsp/genetic/interfaces -I/home/damon/source/travelling_salesman/build/_deps/catch2-src/single_include -isystem /usr/local/boost_1_79_0/include -isystem /home/damon/source/travelling_salesman/build/_deps/trompeloeil-src/include -g -Wall -Wextra -Wwrite-strings -Wno-parentheses -Wno-comment -Wpedantic -Warray-bounds -Weffc++ -Werror -std=c++17 -o CMakeFiles/test_tsp.dir/genetic/random_generator_test.cpp.o -c /home/damon/source/travelling_salesman/tests/genetic/random_generator_test.cpp",
+  "file": "/home/damon/source/travelling_salesman/tests/genetic/random_generator_test.cpp"
+},
+{
+  "directory": "/home/damon/source/travelling_salesman/build/tests",
+  "command": "/usr/bin/c++ -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -I/home/damon/source/travelling_salesman/tests/genetic -I/home/damon/source/travelling_salesman/src/tsp -I/home/damon/source/travelling_salesman/src/tsp/genetic -I/home/damon/source/travelling_salesman/src/tsp/genetic/interfaces -I/home/damon/source/travelling_salesman/build/_deps/catch2-src/single_include -isystem /usr/local/boost_1_79_0/include -isystem /home/damon/source/travelling_salesman/build/_deps/trompeloeil-src/include -g -Wall -Wextra -Wwrite-strings -Wno-parentheses -Wno-comment -Wpedantic -Warray-bounds -Weffc++ -Werror -std=c++17 -o CMakeFiles/test_tsp.dir/genetic/natural_selector_test.cpp.o -c /home/damon/source/travelling_salesman/tests/genetic/natural_selector_test.cpp",
+  "file": "/home/damon/source/travelling_salesman/tests/genetic/natural_selector_test.cpp"
+},
+{
+  "directory": "/home/damon/source/travelling_salesman/build/tests",
+  "command": "/usr/bin/c++ -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -I/home/damon/source/travelling_salesman/tests/genetic -I/home/damon/source/travelling_salesman/src/tsp -I/home/damon/source/travelling_salesman/src/tsp/genetic -I/home/damon/source/travelling_salesman/src/tsp/genetic/interfaces -I/home/damon/source/travelling_salesman/build/_deps/catch2-src/single_include -isystem /usr/local/boost_1_79_0/include -isystem /home/damon/source/travelling_salesman/build/_deps/trompeloeil-src/include -g -Wall -Wextra -Wwrite-strings -Wno-parentheses -Wno-comment -Wpedantic -Warray-bounds -Weffc++ -Werror -std=c++17 -o CMakeFiles/test_tsp.dir/genetic/parent_selector_test.cpp.o -c /home/damon/source/travelling_salesman/tests/genetic/parent_selector_test.cpp",
+  "file": "/home/damon/source/travelling_salesman/tests/genetic/parent_selector_test.cpp"
+},
+{
+  "directory": "/home/damon/source/travelling_salesman/build/tests",
+  "command": "/usr/bin/c++ -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -I/home/damon/source/travelling_salesman/tests/genetic -I/home/damon/source/travelling_salesman/src/tsp -I/home/damon/source/travelling_salesman/src/tsp/genetic -I/home/damon/source/travelling_salesman/src/tsp/genetic/interfaces -I/home/damon/source/travelling_salesman/build/_deps/catch2-src/single_include -isystem /usr/local/boost_1_79_0/include -isystem /home/damon/source/travelling_salesman/build/_deps/trompeloeil-src/include -g -Wall -Wextra -Wwrite-strings -Wno-parentheses -Wno-comment -Wpedantic -Warray-bounds -Weffc++ -Werror -std=c++17 -o CMakeFiles/test_tsp.dir/genetic/breeder_test.cpp.o -c /home/damon/source/travelling_salesman/tests/genetic/breeder_test.cpp",
+  "file": "/home/damon/source/travelling_salesman/tests/genetic/breeder_test.cpp"
+},
+{
+  "directory": "/home/damon/source/travelling_salesman/build/tests",
+  "command": "/usr/bin/c++ -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -I/home/damon/source/travelling_salesman/tests/genetic -I/home/damon/source/travelling_salesman/src/tsp -I/home/damon/source/travelling_salesman/src/tsp/genetic -I/home/damon/source/travelling_salesman/src/tsp/genetic/interfaces -I/home/damon/source/travelling_salesman/build/_deps/catch2-src/single_include -isystem /usr/local/boost_1_79_0/include -isystem /home/damon/source/travelling_salesman/build/_deps/trompeloeil-src/include -g -Wall -Wextra -Wwrite-strings -Wno-parentheses -Wno-comment -Wpedantic -Warray-bounds -Weffc++ -Werror -std=c++17 -o CMakeFiles/test_tsp.dir/genetic/mutator_test.cpp.o -c /home/damon/source/travelling_salesman/tests/genetic/mutator_test.cpp",
+  "file": "/home/damon/source/travelling_salesman/tests/genetic/mutator_test.cpp"
+}
+]
