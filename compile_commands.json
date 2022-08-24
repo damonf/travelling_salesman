@@ -1,7 +1,7 @@
 [
 {
   "directory": "/home/damon/source/travelling_salesman/build/apps",
-  "command": "/usr/bin/c++ -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -I/home/damon/source/travelling_salesman/src/tsp -I/home/damon/source/travelling_salesman/src/tsp/genetic -I/home/damon/source/travelling_salesman/src/tsp/genetic/interfaces -isystem /home/damon/source/travelling_salesman/include -isystem /usr/local/boost_1_79_0/include -g -Wall -Wextra -Wwrite-strings -Wno-parentheses -Wno-comment -Wpedantic -Warray-bounds -Weffc++ -Werror -std=c++17 -o CMakeFiles/main_app.dir/main.cpp.o -c /home/damon/source/travelling_salesman/apps/main.cpp",
+  "command": "/usr/bin/c++ -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -I/home/damon/source/travelling_salesman/src/tsp -I/home/damon/source/travelling_salesman/src/tsp/genetic -I/home/damon/source/travelling_salesman/src/tsp/genetic/interfaces -isystem /home/damon/source/travelling_salesman/include -isystem /usr/local/boost_1_79_0/include -g -Wall -Wextra -Wwrite-strings -Wno-parentheses -Wno-comment -Wpedantic -Warray-bounds -Weffc++ -Werror -std=c++17 -o CMakeFiles/tsman.dir/main.cpp.o -c /home/damon/source/travelling_salesman/apps/main.cpp",
   "file": "/home/damon/source/travelling_salesman/apps/main.cpp"
 },
 {

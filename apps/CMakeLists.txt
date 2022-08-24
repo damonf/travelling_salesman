@@ -1,5 +1,5 @@
 
-add_executable(main_app
+add_executable(tsman
   "main.cpp"
   )
 
@@ -15,4 +15,4 @@ include_directories(
   ${Boost_INCLUDE_DIR}
   )
 
-target_link_libraries(main_app PRIVATE tsp Boost::program_options)
+target_link_libraries(tsman PRIVATE tsp Boost::program_options)
