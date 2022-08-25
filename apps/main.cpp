@@ -64,18 +64,19 @@ void run_algorithm(
 
     auto elapsed = timer.elapsed();
 
-    if (verbose) {
-        std::cout << "\n";
-        std::cout << name << "\n";
-        std::cout << "elapsed (ms): " << elapsed << "\n";
-        std::cout << "shortest path: " << result.second << "\n";
-    }
-
+    std::cout << "\n";
+    std::cout << "algorithm: " << name << "\n";
+    std::cout << "length: " << result.second << "\n";
+    std::cout << "path: ";
     for (auto node: result.first) {
         std::cout << node << " ";
     }
-
     std::cout << "\n";
+
+    if (verbose) {
+        std::cout << "elapsed (ms): " << elapsed << "\n";
+    }
+
 
     if (out_dir) {
         auto filename{*out_dir + "/" + name + "_path.txt"};
@@ -121,9 +122,7 @@ int main(int argc, char *argv[]) {
             graph_string = load_graph(*options.graph_file);
         }
 
-        if (options.verbose) {
-            std::cout << graph_string;
-        }
+        std::cout << "problem:\n" << graph_string;
 
         tsp::Graph graph{graph_string.c_str()};
 
